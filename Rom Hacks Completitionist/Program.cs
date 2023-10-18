@@ -11,6 +11,8 @@ namespace Rom_Hacks_Completitionist
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        
+
         [STAThread]
         static void Main()
         {
