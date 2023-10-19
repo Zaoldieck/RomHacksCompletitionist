@@ -9,6 +9,7 @@ To use the program you [XAMPP](https://sourceforge.net/projects/xampp/files/XAMP
 
 
 # Project
+    ==========================================WORK IN PROGRESS==========================================
 		1. Stars
 				a. Add Star
 						i. Course Name
