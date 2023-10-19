@@ -2,7 +2,7 @@
 This is a custom local program to save all ur completitions by stars and rom hacks
 
 # How to use?
-To use the program you [XAMPP](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.4/xampp-windows-x64-8.2.4-0-VS16-installer.exe). Required for a MySQL database.
+To use the program you need [XAMPP](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.4/xampp-windows-x64-8.2.4-0-VS16-installer.exe). Required for a MySQL database.
 
 # Preview
 ![y5lppmd](https://github.com/Zaoldieck/RomHacksCompletitionist/assets/103866610/ae2c5eb4-6f38-47e2-b641-30cc09bbe72a)
