@@ -1,0 +1,28 @@
+		1. Stars
+				a. Add Star
+						i. Course Name
+					   ii. Star Name
+					  iii. Type (normal star/red coins/100coins/secrets/key/toad/mips/ecc)
+					   iv. Notes (optionals)
+					    v. Obtained? yes/no
+					   vi. Video Proof
+					  vii. Listed Star? yes/no
+					 viii. Rating (if listed)
+					    x. Rom Hack (long name)
+				b. Status page.
+				c. Manage Stars
+						i. Edit/Remove
+		2. Rom Hacks
+				a. Add Rom Hack
+						i. Name (long) 
+					   ii. Name (short)
+					  iii. Type (normal/kaizo/superkaizo)
+					   iv. notes (optionals)
+					    v. Total Stars
+					   vi. Obtained Stars
+					  vii. Listed Stars
+					 viii. Obtained Listed Stars
+					   ix. Completition %
+				b. Manage Rom Hacks
+						i. Edit/Remove
+		
